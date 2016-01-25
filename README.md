@@ -1,5 +1,7 @@
 # Attesoro
 
+[![Join the chat at https://gitter.im/zygimantus/attesoro](https://badges.gitter.im/zygimantus/attesoro.svg)](https://gitter.im/zygimantus/attesoro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A free, open source, translation editor for Java programs.
 
 Homepage: [http://attesoro.org/](http://attesoro.org/)
